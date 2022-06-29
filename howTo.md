@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to finance
 
 You can use the [editor on GitHub](https://github.com/nickdba/finance/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
