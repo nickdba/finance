@@ -6,5 +6,3 @@ We will focus on 3 main categories.
 [RealEstate](RealEstate/readme.md)  
 [Stocks](Stocks/readme.md)  
 [Bonds](Bonds/readme.md)  
-
-[test](test.md)  
