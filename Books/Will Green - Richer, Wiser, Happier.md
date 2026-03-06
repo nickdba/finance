@@ -2,7 +2,7 @@
 
 ## Mohnish Pabrai
 
-First chapters focus on Mohnish Pabrai, an legedary investor who became a multi-millionaire by unabashedly copying the methods of Warren Buffett.
+First chapters focus on Mohnish Pabrai, an investor who became a multi-millionaire by unabashedly copying the methods of Warren Buffett.
 
 ### 1. The Power of "Cloning"
 
