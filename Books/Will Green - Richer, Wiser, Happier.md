@@ -141,8 +141,8 @@ Greenblatt's takeaway for the reader is to find a system that makes sense to you
 
 ### Recommended books:
 
-Joel Greenblatt - The Little Book That Beats the Market
-Joel Greenblatt - The Little Book That Still Beats the Market
+Joel Greenblatt - The Little Book That Beats the Market  
+Joel Greenblatt - The Little Book That Still Beats the Market  
 Joel Greenblatt - You Can Be a Stock Market Genius
 
 ## Chapter 5, The Longevity of the Greats - Nick Sleep and Qais Zakaria
@@ -205,12 +205,11 @@ This chapter is about building a "Latticework of Mental Models." Green paints Mu
 
 ### Recommended books:
 
-[Charlie Recommends](https://fs.blog/charlie-munger-recommended-books/)
-Poor Charlie’s Almanack
-Janet Lowe - Damn Right: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger.
-Peter Bevellin - Seeking Wisdom: from Darwin to Munger
-
-Charlie Munger: The Complete Investor by Tren Griffin is good for a condensed overview of Charlie’s investment style, particularly if you’re less interested in Charlie’s opinions on non-investing related subjects (lol).
+[Charlie Recommends Reading](https://fs.blog/charlie-munger-recommended-books/)  
+Charlie Munger - Poor Charlie’s Almanack  
+Janet Lowe - Damn Right: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger.  
+Peter Bevellin - Seeking Wisdom: from Darwin to Munger  
+Tren Griffin - Charlie Munger: The Complete Investor
 
 ## Chapter 7, The Resilience of the Greats - Bill Miller
 
@@ -242,11 +241,124 @@ This chapter is a dramatic study in intellectual flexibility and the pain of fai
 
 ### Recommended books:
 
-Bill Miller - Cash: An American Man
+Bill Miller - Cash: An American Man  
 Bill Miller - The Rookie CEO
 
 
+## Chapter 8, Don’t Be a Sucker - Joel Tillinghast
+
+Joel Tillinghast was a superstar fund manager at Fidelity who was hand-picked by the legendary Peter Lynch.
+This chapter is a grounded, practical guide to avoiding the traps that ruin most investors. Tillinghast’s specialty is small-cap stocks—the murky waters where most people lose money.
+William Green highlights that Joel Tillinghast’s success isn't just about picking small stocks; it’s about his behavioral consistency.   
+Tillinghast is the personification of the "Tortoise" in the race against the "Hare."
+
+Here is how Tillinghast uses small, consistent habits to build massive, long-term gains
+
+1. The Five Killers of Wealth
+
+Green summarizes Tillinghast’s "pre-flight checklist" to ensure he isn't being a "sucker." He looks to avoid these five specific types of companies:
+
+a. The Obsolete: Companies whose business models are being eaten by technology (e.g., Blockbuster).
+b. The Heavily Indebted: Debt is a "ticking time bomb." When the economy slows, companies with high debt are the first to explode.
+c. The Corrupt/Dishonest: If you can’t trust the management, you can’t trust the numbers.
+d. The Faddish: Businesses built on a trend that won't last (the "Peloton" or "Beanie Baby" effect).
+e. The Overvalued: Even a great company is a bad investment if you pay too much for it.
+
+2. Knowing Your "Circle of Competence"
+
+* This chapter leans heavily into a concept championed by Buffett and Munger but perfected by Tillinghast: Knowing what you don't know.
+* The Edge: Tillinghast doesn't try to be a genius in every sector. He sticks to small, boring companies he can actually understand.
+* Intellectual Honesty: He argues that most "suckers" lose money because they invest in complex things (like biotech or crypto) because they're "exciting," even though they don't understand the underlying mechanics.
+
+3. The "Low-Expectations" Strategy
+
+* One of Tillinghast’s most brilliant insights is that you should look for stocks where expectations are low.
+* If a company is expected to be "perfect," any small mistake will cause the stock to crash.
+* If a company is expected to be "garbage," even a tiny bit of good news can make the stock double or triple. He looks for the "unloved" and "undervalued" where the bar is set low.
+* Tillinghast doesn't look for "home runs" (stocks that go up 1,000% in a month). Instead, he looks for hundreds of "singles."
+
+4. Psychological Blind Spots
+
+* Green explores how Tillinghast manages his own brain. He acknowledges that we are all prone to "anchoring" (sticking to an old price) or "recency bias" (thinking the future will look exactly like the last six months).
+* Humility as a Tool: Tillinghast is famously humble and cautious. He assumes he might be wrong, so he diversifies more than most of the other "greats" in the book (at one point holding over 800 stocks).
+* Consistency over Brilliance: He believes that if you simply avoid the "zeros" (stocks that go to zero), the market's natural upward drift will do the rest of the work for you.
+
+### Recommended books:
+
+Joel Tillinghast- Big Money Thinks Small: Biases, Blind Spots, and Smarter Investing  
+
+## Other Great super investors
+
+1. Ed Thorp: The Probability Genius A math professor who beat the dealer at blackjack and then beat Wall Street.
+
+2. Arnold Van Den Berg: A Holocaust survivor who uses the power of the subconscious mind to maintain discipline.
+
+3. Guy Spier: Manager of the Aquamarine Fund; focus on the "Inner Scorecard" and radical honesty.
+
+4. Jack Bogle: Founder of Vanguard; the "saint" of index investing and low costs.
+
+5. Peter Lynch: Manager of the Magellan Fund; focused on "investing in what you know."
+
+6. Bill Ruane: Founder of Sequoia Fund; focused on concentration and deep research.
+
+7. Matthew McLennan: Global value investor at First Eagle; emphasizes resilience and "shock resistance."
+
+8. Irving Kahn: One of Benjamin Graham’s original students who continued investing past the age of 100.
+
+9. Will Danoff: Longtime manager of Fidelity Contrafund; known for his ability to identify growth companies early.
+
+10. Laura Geritz: Expert in global micro-cap stocks; emphasizes humility and traveling the world to find hidden value.
+
+11. Tom Gayner: Co-CEO of Markel; focuses on compounding capital and character.
+
+12. Chuck Akre: Known for "The Three-Legged Stool" (Compounding machine, Skilled management, Reinvestment opportunity).
+
+### Recommended books:
+
 Robert G. Hagstrom - The Warren Buffett Way  
-Robert G. Hagstrom - The Warren Buffett Portfolio
-Robert G. Hagstrom - Investing: The Last Liberal Art
+Robert G. Hagstrom - The Warren Buffett Portfolio  
+Robert G. Hagstrom - Investing: The Last Liberal Art  
 Robert G. Hagstrom - The Essential Buffett: Timeless Principles for the New Economy
+
+## Aditional recommended books
+
+1. The "Wisdom" & Philosophy Picks
+These are the books Green emphasizes for the "Wiser" and "Happier" parts of the title:
+
+"Meditations" by Marcus Aurelius: A favorite of many investors in the book (and Green himself) for maintaining equanimity and stoicism.
+
+"Zen and the Art of Motorcycle Maintenance" by Robert M. Pirsig: Mentioned as a profound exploration of "Quality" and how to live a meaningful life.
+
+"The Book of Joy" by Dalai Lama and Desmond Tutu: Referenced in the context of the "Inner Scorecard" and finding happiness independent of market conditions.
+
+"Power vs. Force" by David Hawkins: A book Green has often cited in interviews as a guide to understanding human consciousness and integrity.
+
+"The Speed of Trust" by Stephen M.R. Covey: Highlighting the competitive advantage of being a trustworthy person.
+
+2. Investing & Business Classics
+These are the technical foundations the 40+ investors have in common:
+
+"The Intelligent Investor" by Benjamin Graham: The "Bible" of value investing.
+
+"Poor Charlie’s Almanack" by Charlie Munger: Essential for understanding mental models and multidisciplinary thinking.
+
+"The Most Important Thing" by Howard Marks: Green considers this one of the most lucid books on risk and market cycles.
+
+"You Can Be a Stock Market Genius" by Joel Greenblatt: Despite the cheesy title, it’s highly recommended for finding "special situations."
+
+"Common Stocks and Uncommon Profits" by Philip Fisher: The foundation for understanding high-quality, compounding businesses.
+
+3. Psychology & Decision Making
+Since the book argues that "temperament overrides tactics," these are the recommended reads for mastering your mind:
+
+"Thinking, Fast and Slow" by Daniel Kahneman: To understand the cognitive biases that lead to "stupid" investment mistakes.
+
+"Influence: The Psychology of Persuasion" by Robert Cialdini: Charlie Munger’s top recommendation for spotting how you are being manipulated (and how to avoid it).
+
+"Think Again" by Adam Grant: Focused on the importance of "unlearning" and intellectual humility.
+
+4. Special Recommendations (The "Deep Cuts")
+"The Education of a Value Investor" by Guy Spier: Green actually helped Guy Spier write this, and it serves as a perfect companion to Chapter 9 of Richer, Wiser, Happier.
+
+"The Joys of Compounding" by Gautam Baid: Often paired with Green’s book, it is a massive compendium of wisdom from the world’s greatest thinkers.
+
